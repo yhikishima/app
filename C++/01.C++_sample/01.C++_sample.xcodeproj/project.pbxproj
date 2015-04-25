@@ -232,6 +232,7 @@
 				6B6B69E41ADC90C300229702 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
